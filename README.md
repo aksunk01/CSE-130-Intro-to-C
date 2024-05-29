@@ -1,2 +1,2 @@
-# CSE-130-Intro-to-C-C-
+# CSE-130-Intro-to-C
 Holds any C/C++ labs
